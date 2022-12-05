@@ -1,0 +1,21 @@
+body{
+    background-color:Pink;
+    text-align:center;
+    border:solid;
+    border-color:yellow;
+  }
+  h1{
+    color:red;
+    border:dashed;
+  }
+  h2{
+    color:blue;
+    border:solid;
+  }
+  img{
+    text-align:center;
+    height:200px;
+    width:150px;
+    color:orange;
+    border:dotted;
+  }
